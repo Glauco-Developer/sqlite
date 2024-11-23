@@ -4,7 +4,7 @@ This README provides a comprehensive overview of creating, managing, and interac
 
 ```sql
 -- Open the Database
-.open mercado.db
+.open market.db
 .header on 
 .mode table
 
